@@ -1,0 +1,28 @@
+/* Menu css start */
+.text-light-green {
+  color: #76c539;
+}
+.bg-light-green {
+  background-color: #76c539;
+}
+#menu li:hover {
+  background-color: #76c539;
+  color: white;
+}
+#menu li:active {
+  background-color: #76c539;
+  color: white;
+}
+
+::-webkit-scrollbar {
+  /* WebKit */
+  width: 0;
+  height: 0;
+}
+.scrollbar-container {
+  /* Hide scrollbar for IE, Edge and Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+/* Menu css end*/

@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
 .App-logo {
@@ -35,4 +35,11 @@
   to {
     transform: rotate(360deg);
   }
+}
+/* My css */
+.text-light-green {
+  color: #76c539;
+}
+.bg-light-green {
+  background-color: #76c539;
 }
